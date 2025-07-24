@@ -6,7 +6,7 @@ Monte Carlo simulation of Credit Counterparty Risk under LGM and Extended Vasice
 
 This work analyzes counterparty credit risk (CCR) for three portfolios of interest
 rate swaps using two one-factor short-rate models: Hull–White (HW) and Linear
-Gaussian Markov (LGM). Both models are calibrated to the same set of at-themoney
+Gaussian Markov (LGM). Both models are calibrated to the same set of at-the-money
 swaptions.
 In our implementation, the HW model jointly calibrates the mean reversion speed
 a and a single volatility level, while the LGM uses a piecewise-constant volatility
